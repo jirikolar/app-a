@@ -8,7 +8,7 @@
   </head>
   <body>
     <div class="box">
-      <h1>!A</h1>
+      <h1>C</h1>
       <h2><?php echo getenv('HOSTNAME') ?></h2>
       <hr>
       <h2>refresh in:</h2>
