@@ -11,7 +11,7 @@
       <h1>A!!</h1>
       <h2><?php echo getenv('HOSTNAME') ?></h2>
       <hr>
-      <h2>refresh in:</h2>
+      <h2>!!refresh in:</h2>
       <h1 id="countdown">3</h1>
     </div>
   </body>
